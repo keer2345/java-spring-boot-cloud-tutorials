@@ -32,7 +32,7 @@
 
 > 我们假设您已经有了 Spring Boot 基础。
 
-![](https://raw.githubusercontent.com/keer2345/microservices-spring-boot/master/images/01.png)
+![](https://raw.githubusercontent.com/keer2345/java-spring-boot-cloud-tutorials/master/microservices-spring-boot/images/01.png)
 
 这个教程，我们将涵盖一下内容：
 - 介绍微服务

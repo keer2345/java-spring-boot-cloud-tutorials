@@ -2,7 +2,7 @@
 
 > https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-creating-our-microserivces-gateway-part-2-31f8aa6b215b
 
-![](https://raw.githubusercontent.com/keer2345/microservices-spring-boot/master/images/01.png)
+![](https://raw.githubusercontent.com/keer2345/java-spring-boot-cloud-tutorials/master/microservices-spring-boot/images/01.png)
 
 我们的应用包括注册服务、图像服务、画廊服务和网管。画廊服务基于图像服务，检索所有图像并显示。
 
