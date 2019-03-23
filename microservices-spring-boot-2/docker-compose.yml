@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  counterservice:
+    build: counterservice
+    ports:
+      - 8081:8081
