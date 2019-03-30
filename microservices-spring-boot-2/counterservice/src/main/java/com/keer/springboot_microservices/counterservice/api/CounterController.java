@@ -20,3 +20,4 @@ public class CounterController {
         return prefixMessage + count.getAndIncrement();
     }
 }
+
