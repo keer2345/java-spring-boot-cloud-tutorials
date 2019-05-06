@@ -4,7 +4,8 @@
 - [Baeldung.com](https://github.com/keer2345/java-spring-boot-cloud-tutorials/tree/master/baeldung.com)
 - [Microservices-spring-boot-1](https://github.com/keer2345/java-spring-boot-cloud-tutorials/tree/master/microservices-spring-boot)
 - [Microservices-spring-boot-2](https://github.com/keer2345/java-spring-boot-cloud-tutorials/tree/master/microservices-spring-boot-2)
-
+- [howtodoinjava.com](https://howtodoinjava.com/spring-boot-tutorials/)
+- [tutorialspoint.com](https://www.tutorialspoint.com/spring_boot/index.htm)
 
 # Awesome
 ## Articles
