@@ -8,9 +8,11 @@
 - [tutorialspoint.com](https://www.tutorialspoint.com/spring_boot/index.htm)
 
 # Awesome
+## Books
+- Learning-Spring-Boot-2.0-Second-Edition
 ## Articles
 - [Spring Boot Tutorial](https://www.devglan.com/tutorials/spring-boot-tutorial)
-- √ [An Introduction to Spring Boot](https://morioh.com/p/35276d1630c6/an-introduction-to-spring-boot)
+- [An Introduction to Spring Boot](https://morioh.com/p/35276d1630c6/an-introduction-to-spring-boot)
 - [How to configure Jolokia on a Spring boot server](https://nullbeans.com/how-to-configure-jolokia-on-a-spring-boot-server/)
 
 ## Videos
